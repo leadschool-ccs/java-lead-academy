@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+REPOSITORY TITLE: Java Lead Academy
+PURPOSE OF PROJECT: To host classroom projects of Java Lead Academy
+AUTHORS: CCS Team, LEAD School
+USER INSTRUCTIONS: You can view .java files by clicking on them and also download whole repository by clicking on Code> Download Zip.
